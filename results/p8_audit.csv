@@ -1,0 +1,2 @@
+reports,sentences,fact,hypothesis,gap,share_sentences_pass,numbers_in_facts,share_numbers_supported,class_mentions,class_mentions_unsupported,cost_usd
+24,222,131,50,41,1.0,264,1.0,50,0,0.66

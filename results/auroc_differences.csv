@@ -1,0 +1,5 @@
+comparison,diff,low,high
+M1 count + equal-weight evidence minus M0 drug count,0.014635572165271227,-0.0012244679000525502,0.030568892643421407
+M2 count + learned weights minus M1 count + equal-weight evidence,-0.01793431738939788,-0.046541017692573926,0.010224307595259743
+M3 M1 + curated events minus M1 count + equal-weight evidence,6.263440298981404e-05,-0.012636149849425878,0.013609039882671987
+"curated event, clinical sources minus curated event, experimental sources",0.04312378645844217,-0.007558928542024662,0.0928667511642549

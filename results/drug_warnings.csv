@@ -1,0 +1,922 @@
+drug,warningType,toxicityClass,country,year,description,efoTerm
+CHEMBL3301581,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1252,Black Box Warning,,United States,,,
+CHEMBL2105717,Black Box Warning,,United States,,,
+CHEMBL2028019,Black Box Warning,,United States,,,
+CHEMBL1201831,Black Box Warning,,United States,,,
+CHEMBL1159650,Black Box Warning,,United States,,,
+CHEMBL178,Black Box Warning,,United States,,,
+CHEMBL1118,Black Box Warning,,United States,,,
+CHEMBL917,Black Box Warning,,United States,,,
+CHEMBL1501,Black Box Warning,,United States,,,
+CHEMBL2043437,Black Box Warning,,United States,,,
+CHEMBL1282,Black Box Warning,,United States,,,
+CHEMBL1088,Black Box Warning,,United States,,,
+CHEMBL715,Black Box Warning,,United States,,,
+CHEMBL1201573,Black Box Warning,,United States,,,
+CHEMBL395429,Black Box Warning,,United States,,,
+CHEMBL2107866,Black Box Warning,,United States,,,
+CHEMBL1213351,Black Box Warning,,United States,,,
+CHEMBL122,Black Box Warning,,United States,,,
+CHEMBL1201,Black Box Warning,,United States,,,
+CHEMBL1201414,Black Box Warning,,United States,,,
+CHEMBL1201604,Black Box Warning,,United States,,,
+CHEMBL865,Black Box Warning,,United States,,,
+CHEMBL714,Black Box Warning,,United States,,,
+CHEMBL1497,Black Box Warning,,United States,,,
+CHEMBL813,Black Box Warning,,United States,,,
+CHEMBL2105720,Black Box Warning,,United States,,,
+CHEMBL479,Black Box Warning,,United States,,,
+CHEMBL833,Black Box Warning,,United States,,,
+CHEMBL4650319,Black Box Warning,,United States,,,
+CHEMBL637,Black Box Warning,,United States,,,
+CHEMBL1729,Black Box Warning,,United States,,,
+CHEMBL596,Black Box Warning,,United States,,,
+CHEMBL1201631,Black Box Warning,,United States,,,
+CHEMBL100116,Black Box Warning,,United States,,,
+CHEMBL4297809,Black Box Warning,,United States,,,
+CHEMBL5315048,Black Box Warning,,United States,,,
+CHEMBL3306803,Black Box Warning,,United States,,,
+CHEMBL3646221,Black Box Warning,,United States,,,
+CHEMBL461101,Black Box Warning,,United States,,,
+CHEMBL1789941,Black Box Warning,,United States,,,
+CHEMBL4594448,Black Box Warning,,United States,,,
+CHEMBL4650827,Black Box Warning,,United States,,,
+CHEMBL1467,Black Box Warning,,United States,,,
+CHEMBL1237023,Black Box Warning,,United States,,,
+CHEMBL3545184,Black Box Warning,,United States,,,
+CHEMBL1002,Black Box Warning,,United States,,,
+CHEMBL878,Black Box Warning,,United States,,,
+CHEMBL905,Black Box Warning,,United States,,,
+CHEMBL4297990,Black Box Warning,,United States,,,
+CHEMBL2364639,Black Box Warning,,United States,,,
+CHEMBL112,Black Box Warning,misuse,United States,,,
+CHEMBL112,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL2107841,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201587,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1201587,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1201587,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL634,Black Box Warning,misuse,United States,,,
+CHEMBL1639,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1110,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL270190,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL633,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL629,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1113,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL405,Black Box Warning,misuse,United States,,,
+CHEMBL405,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1112,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL5483015,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL5483015,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL24,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1542,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1542,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1542,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL2028661,Black Box Warning,teratogenicity,United States,,,
+CHEMBL2105759,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2105759,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1742990,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL838,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1201569,Black Box Warning,,United States,,,
+CHEMBL2105760,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1742996,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1072,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL1098,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL511142,Black Box Warning,misuse,United States,,,
+CHEMBL511142,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL894,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL33986,Black Box Warning,misuse,United States,,,
+CHEMBL33986,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1014,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1773,Black Box Warning,,United States,,,
+CHEMBL1560,Black Box Warning,teratogenicity,United States,,,
+CHEMBL118,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL118,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL118,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1201577,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL549,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL415,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL42,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL42,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL160,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL160,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL160,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL1479,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1479,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1479,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1479,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1201288,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1201566,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1201566,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1201566,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL178,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL178,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1201550,Black Box Warning,,United States,,,
+CHEMBL72,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1118,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL827,Black Box Warning,misuse,United States,,,
+CHEMBL612,Black Box Warning,misuse,United States,,,
+CHEMBL1732,Black Box Warning,,United States,,,
+CHEMBL964,Black Box Warning,,United States,,,
+CHEMBL109,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL109,Black Box Warning,teratogenicity,United States,,,
+CHEMBL473,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1628227,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL53463,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL53463,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1433,Black Box Warning,,United States,,,
+CHEMBL184412,Black Box Warning,,United States,,,
+CHEMBL1108,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2108027,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1175,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL117785,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1201837,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL461101,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL578,Black Box Warning,teratogenicity,United States,,,
+CHEMBL577,Black Box Warning,teratogenicity,United States,,,
+CHEMBL3989908,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL442,Black Box Warning,,United States,,,
+CHEMBL1508,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL135,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL135,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL135,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1200430,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1200430,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1200430,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1200973,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1200973,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1200973,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1511,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1511,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1511,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL494753,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL494753,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL494753,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1201572,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL622,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL622,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL622,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1908360,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL1908360,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1908360,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL1908360,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL414357,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL596,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL596,Black Box Warning,misuse,United States,,,
+CHEMBL652,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL41,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1200854,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL806,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL814,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL3039598,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1201833,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL54,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1200986,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL398707,Black Box Warning,misuse,United States,,,
+CHEMBL398707,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL533,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1117,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1117,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2216870,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL2216870,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL14376,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL11,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1201581,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1513,Black Box Warning,teratogenicity,United States,,,
+CHEMBL481,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL481,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL554,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL960,Black Box Warning,teratogenicity,United States,,,
+CHEMBL960,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL99946,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL592,Black Box Warning,misuse,United States,,,
+CHEMBL592,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL4084119,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201222,Black Box Warning,misuse,United States,,,
+CHEMBL1237,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1200826,Black Box Warning,misuse,United States,,,
+CHEMBL1201170,Black Box Warning,misuse,United States,,,
+CHEMBL191,Black Box Warning,teratogenicity,United States,,,
+CHEMBL831,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1237021,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL21731,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL256907,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL509,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL509,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL509,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL717,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL717,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL717,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL717,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL599,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL599,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL599,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL607,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL607,Black Box Warning,misuse,United States,,,
+CHEMBL1431,Black Box Warning,metabolic toxicity,United States,,,
+CHEMBL1431,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL651,Black Box Warning,misuse,United States,,,
+CHEMBL651,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL651,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL34259,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL34259,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL34259,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL34259,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL34259,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL34259,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL34259,Black Box Warning,teratogenicity,United States,,,
+CHEMBL796,Black Box Warning,misuse,United States,,,
+CHEMBL86,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL13,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2107857,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL259209,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL654,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL606,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1670,Black Box Warning,,United States,,,
+CHEMBL58,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL58,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1165,Black Box Warning,teratogenicity,United States,,,
+CHEMBL787,Black Box Warning,,United States,,,
+CHEMBL70,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL70,Black Box Warning,misuse,United States,,,
+CHEMBL1070,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL1070,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1070,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL521606,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1743047,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL623,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL255863,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1274,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL445,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1200692,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1200436,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL656,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL656,Black Box Warning,misuse,United States,,,
+CHEMBL1200585,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL2107360,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1201827,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL2108078,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL490,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL477772,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1581,Black Box Warning,teratogenicity,United States,,,
+CHEMBL567,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL2007641,Black Box Warning,teratogenicity,United States,,,
+CHEMBL3813873,Black Box Warning,,United States,,,
+CHEMBL1200686,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL595,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL103,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL103,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL103,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL643,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL27,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1518,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL668,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1115,Black Box Warning,,United States,,,
+CHEMBL716,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1592,Black Box Warning,teratogenicity,United States,,,
+CHEMBL81,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL81,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1168,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1005,Black Box Warning,misuse,United States,,,
+CHEMBL2107884,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL1643,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1643,Black Box Warning,teratogenicity,United States,,,
+CHEMBL121,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1263,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL972,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL2108724,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL809,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL413,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL413,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL2105737,Black Box Warning,teratogenicity,United States,,,
+CHEMBL471,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL658,Black Box Warning,misuse,United States,,,
+CHEMBL535,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL269732,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL269732,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL83,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL83,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL83,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1201776,Black Box Warning,misuse,United States,,,
+CHEMBL1201776,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1017,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1760,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1760,Black Box Warning,metabolic toxicity,United States,,,
+CHEMBL973,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL973,Black Box Warning,teratogenicity,United States,,,
+CHEMBL525610,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1200335,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1200335,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2107067,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL479,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1201,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL398435,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1324,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL344159,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL84,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1237044,Black Box Warning,misuse,United States,,,
+CHEMBL1237044,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1519,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1201585,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1201585,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1201585,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL621,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL644,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1069,Black Box Warning,teratogenicity,United States,,,
+CHEMBL24828,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL637,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL439849,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL473417,Black Box Warning,teratogenicity,United States,,,
+CHEMBL493982,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2104993,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1464,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1795072,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL658,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1201587,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201587,Black Box Warning,infectious disease,United States,,,
+CHEMBL495,Black Box Warning,,United States,,,
+CHEMBL633,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL633,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL231779,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1112,Black Box Warning,,United States,,,
+CHEMBL2219425,Black Box Warning,,United States,,,
+CHEMBL3187365,Black Box Warning,,United States,,,
+CHEMBL641,Black Box Warning,,United States,,,
+CHEMBL1542,Black Box Warning,teratogenicity,United States,,,
+CHEMBL2105759,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL2105759,Black Box Warning,infectious disease,United States,,,
+CHEMBL1742990,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1742990,Black Box Warning,infectious disease,United States,,,
+CHEMBL838,Black Box Warning,,United States,,,
+CHEMBL512351,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1072,Black Box Warning,,United States,,,
+CHEMBL1098,Black Box Warning,misuse,United States,,,
+CHEMBL1098,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL511142,Black Box Warning,,United States,,,
+CHEMBL2048484,Black Box Warning,,United States,,,
+CHEMBL1237122,Black Box Warning,,United States,,,
+CHEMBL240597,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL71,Black Box Warning,,United States,,,
+CHEMBL799,Black Box Warning,,United States,,,
+CHEMBL1771,Black Box Warning,,United States,,,
+CHEMBL42,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL42,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL160,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL160,Black Box Warning,infectious disease,United States,,,
+CHEMBL539697,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL539697,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1201460,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL1479,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201566,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL109,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL53463,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL3039502,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL3039502,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL3039502,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL3039502,Black Box Warning,infectious disease,United States,,,
+CHEMBL1201828,Black Box Warning,infectious disease,United States,,,
+CHEMBL1269025,Black Box Warning,,United States,,,
+CHEMBL1201476,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL135,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL135,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1200430,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1200973,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1511,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1511,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL494753,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201572,Black Box Warning,infectious disease,United States,,,
+CHEMBL1908360,Black Box Warning,infectious disease,United States,,,
+CHEMBL1164729,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL87493,Black Box Warning,,United States,,,
+CHEMBL726,Black Box Warning,,United States,,,
+CHEMBL1201202,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL35,Black Box Warning,,United States,,,
+CHEMBL3301622,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1201833,Black Box Warning,infectious disease,United States,,,
+CHEMBL54,Black Box Warning,,United States,,,
+CHEMBL2216870,Black Box Warning,infectious disease,United States,,,
+CHEMBL2216870,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1201581,Black Box Warning,infectious disease,United States,,,
+CHEMBL3989958,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL3301675,Black Box Warning,,United States,,,
+CHEMBL841,Black Box Warning,,United States,,,
+CHEMBL831,Black Box Warning,,United States,,,
+CHEMBL717,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL717,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1431,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1431,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL978,Black Box Warning,,United States,,,
+CHEMBL34259,Black Box Warning,infectious disease,United States,,,
+CHEMBL34259,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL34259,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL2107857,Black Box Warning,infectious disease,United States,,,
+CHEMBL1276308,Black Box Warning,,United States,,,
+CHEMBL1276308,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL1276308,Black Box Warning,infectious disease,United States,,,
+CHEMBL1276308,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1276308,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL58,Black Box Warning,misuse,United States,,,
+CHEMBL460,Black Box Warning,,United States,,,
+CHEMBL787,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL787,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1743047,Black Box Warning,metabolic toxicity,United States,,,
+CHEMBL623,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1428,Black Box Warning,misuse,United States,,,
+CHEMBL1162,Black Box Warning,,United States,,,
+CHEMBL566315,Black Box Warning,,United States,,,
+CHEMBL1743048,Black Box Warning,infectious disease,United States,,,
+CHEMBL1201836,Black Box Warning,infectious disease,United States,,,
+CHEMBL656,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1621,Black Box Warning,,United States,,,
+CHEMBL2107360,Black Box Warning,,United States,,,
+CHEMBL1580,Black Box Warning,,United States,,,
+CHEMBL567,Black Box Warning,,United States,,,
+CHEMBL2007641,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2111101,Black Box Warning,,United States,,,
+CHEMBL2103867,Black Box Warning,,United States,,,
+CHEMBL1201772,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL728,Black Box Warning,,United States,,,
+CHEMBL103,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL103,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL643,Black Box Warning,infectious disease,United States,,,
+CHEMBL643,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL643,Black Box Warning,,United States,,,
+CHEMBL631,Black Box Warning,,United States,,,
+CHEMBL81,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL3989986,Black Box Warning,infectious disease,United States,,,
+CHEMBL1643,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1643,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL85,Black Box Warning,,United States,,,
+CHEMBL1201576,Black Box Warning,infectious disease,United States,,,
+CHEMBL198362,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2107874,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL2107874,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL2107874,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2107874,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2108730,Black Box Warning,infectious disease,United States,,,
+CHEMBL413,Black Box Warning,infectious disease,United States,,,
+CHEMBL1393,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL269732,Black Box Warning,infectious disease,United States,,,
+CHEMBL4297573,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL83,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL3304485,Black Box Warning,,United States,,,
+CHEMBL1760,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL386630,Black Box Warning,,United States,,,
+CHEMBL1200335,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2107067,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL2107067,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL2107067,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL2107067,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL479,Black Box Warning,infectious disease,United States,,,
+CHEMBL1237022,Black Box Warning,infectious disease,United States,,,
+CHEMBL84,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL422,Black Box Warning,,United States,,,
+CHEMBL89598,Black Box Warning,,United States,,,
+CHEMBL1464,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1795072,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL708,Black Box Warning,,United States,,,
+CHEMBL2043437,Black Box Warning,teratogenicity,United States,,,
+CHEMBL90,Black Box Warning,metabolic toxicity,United States,,,
+CHEMBL112,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL112,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL20,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL20,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL4585668,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL4585668,Black Box Warning,teratogenicity,United States,,,
+CHEMBL1508,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1508,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL1287853,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL2364649,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL2364649,Black Box Warning,teratogenicity,United States,,,
+CHEMBL2443262,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL2443262,Black Box Warning,misuse,United States,,,
+CHEMBL4298211,Black Box Warning,infectious disease,United States,,,
+CHEMBL1789941,Black Box Warning,infectious disease,United States,,,
+CHEMBL5314379,Black Box Warning,infectious disease,United States,,,
+CHEMBL5314379,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL4650319,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL3655081,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL3655081,Black Box Warning,infectious disease,United States,,,
+CHEMBL1201580,Black Box Warning,infectious disease,United States,,,
+CHEMBL1201580,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL3039540,Black Box Warning,,United States,,,
+CHEMBL405,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL612,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL295698,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL295698,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1201222,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL1201222,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL796,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL2105648,Black Box Warning,,United States,,,
+CHEMBL1005,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL4594505,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL4594505,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL4594505,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL4297839,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL2364639,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL3622821,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL3622821,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL73234,Withdrawn,,United States,2007.0,FDA’s determination that carbetapentane citrate has not been shown to be effective at the over-the-counter (OTC) doses stated in the exempting regulation.,lack of efficacy
+CHEMBL1477,Withdrawn,musculoskeletal toxicity,Worldwide,2001.0,increased risk of rhabdomyolysis,rhabdomyolysis
+CHEMBL110691,Withdrawn,carcinogenicity,United States; United Kingdom; Italy,1970.0,Animal carcinogenicity (dogs),carcinogenicity
+CHEMBL94081,Withdrawn,vascular toxicity,United Kingdom; Cyprus; Egypt; Ireland; Italy,1977.0,Vasculitis; Rash,vasculitis
+CHEMBL54349,Withdrawn,hepatotoxicity,France,1993.0,Hepatitis,drug-induced liver injury
+CHEMBL515914,Withdrawn,vascular toxicity,United States; Mauritius; Saudi Arabia,1976.0,Thromboembolism,Thromboembolism
+CHEMBL1089221,Withdrawn,hepatotoxicity,Spain,1993.0,Hepatotoxicity,hepatotoxicity
+CHEMBL400599,Withdrawn,respiratory toxicity,European Union,2009.0,heart valve diseases and pulmonary arterial hypertension,pulmonary arterial hypertension
+CHEMBL340978,Withdrawn,nephrotoxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,kidney failure
+CHEMBL232201,Withdrawn,hepatotoxicity,France; United Kingdom,1964.0,Jaundice,hepatotoxicity
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",torsades de pointes
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Rare but serious cardiac adverse effects; Adverse cardiac events published by the FDA.; Serious cardiovascular adverse effects,cardiotoxicity
+CHEMBL127516,Withdrawn,psychiatric toxicity,United States,1964.0,Dermatologic Toxicity; Psychiatric Reaction,psychiatric toxicity
+CHEMBL87493,Withdrawn,cardiotoxicity,France; China; United States,1997.0,Valvulopathy,heart valve disease
+CHEMBL296419,Withdrawn,,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,"Increased risk of QT prolongation with concomitant administration of oral or parenteral formulations of azole antifungals, macrolide antibiotics except azithromycin, selective serotonin reuptake inhibitors and HIV protease inhibitors; Potential for serious drug interactions; Association with severe cardiac adverse events when used inappropriately with contraindicated drugs",drug interaction
+CHEMBL1213351,Withdrawn,cardiotoxicity,Canada; New Zealand; Vietnam,2010.0,Serious abnormal heart rhythms,cardiac arrhythmia
+CHEMBL27193,Withdrawn,hepatotoxicity,Worldwide,1990.0,Hepatotoxicity,drug-induced liver injury
+CHEMBL1291,Withdrawn,occular toxicity,United Kingdom,1990.0,Uveitis,uveitis
+CHEMBL395110,Withdrawn,vascular toxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",hypotension
+CHEMBL395110,Withdrawn,gastrointestinal toxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Paralytic ileus
+CHEMBL395110,Withdrawn,neurotoxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Seizure
+CHEMBL395110,Withdrawn,nephrotoxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Urinary retention
+CHEMBL1418176,Withdrawn,drug misuse,France; United States; United Kingdom; Germany,1982.0,Off-label abuse,substance abuse
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",cardiac arrhythmia
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",electrocardiogram PR prolongation
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,Risk for heart attack and stroke,stroke
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,Risk for heart attack and stroke,myocardial infarction
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,Increased risk in cardiovascular events such as heart attack and strokes especially when used for long duration.,stroke
+CHEMBL17157,Withdrawn,,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Fatal drug interactions with commonly use drugs,dead
+CHEMBL479,Withdrawn,cardiotoxicity,Worldwide,2005.0,Cardiac arrythmias,cardiac arrhythmia
+CHEMBL1324,Withdrawn,hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada; United Kingdom,1998.0,Hepatotoxicity,Fulminant hepatitis
+CHEMBL2105233,Withdrawn,immune system toxicity,France; Turkey; Portugal; Italy; Spain,1998.0,Immunoallergic Thrombocytopenia,autoimmune thrombocytopenic purpura
+CHEMBL22242,Withdrawn,hematological toxicity,Worldwide,1993.0,Aplastic anemia,Aplastic anemia
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,Increased risk of cardiovascular side effects,cardiotoxicity
+CHEMBL865,Withdrawn,dermatological toxicity,United States; New Zealand; Bhutan; Canada,2005.0,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",erythema multiforme
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,"Cardiovascular risk, (heart attack or stroke)",stroke
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,"Cardiovascular risk, (heart attack or stroke)",myocardial infarction
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,Increased risk of heart attack,myocardial infarction
+CHEMBL76370,Withdrawn,neurotoxicity,United States; Australia; Canada,2007.0,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",stroke
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,risk of serious haemorrhagic strokes,hemorrhagic stroke
+CHEMBL566315,Withdrawn,,European Union,2024.0,benefits are no longer considered to outweigh its risks,
+CHEMBL27193,Withdrawn,hepatotoxicity,Worldwide,1990.0,Evidence of isolated cases of liver toxicity,hepatotoxicity
+CHEMBL1574,Withdrawn,,Sweden; United Kingdom; Mauritius,1981.0,risks outweigh the benefits,
+CHEMBL340978,Withdrawn,gastrointestinal toxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",gastrointestinal toxicity
+CHEMBL565,Withdrawn,vascular toxicity,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",Thromboembolism
+CHEMBL340978,Withdrawn,hematological toxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",hematological toxicity
+CHEMBL1213351,Withdrawn,,Canada; New Zealand; Vietnam,2010.0,Risk of serious abnormal heart rhythms that have been linked to serious adverse effects including sudden death,Sudden Death
+CHEMBL94081,Withdrawn,dermatological toxicity,United Kingdom; Cyprus; Egypt; Ireland; Italy,1977.0,Vasculitis; Rash,exanthem
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Fatal arrhythmia; Drug Interaction,cardiac arrhythmia
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Cardiotoxic effects,cardiotoxicity
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,drug-induced liver injury
+CHEMBL340978,Withdrawn,carcinogenicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,carcinogenicity
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,associated with fatal cholestatic jaundice among other serious adverse reactions,drug-induced liver injury
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",ventricular fibrillation
+CHEMBL127516,Withdrawn,neurotoxicity,United States,1964.0,"associated with severe adverse reactions, such as severe tissue slough and transverse myelitis",transverse myelitis
+CHEMBL278819,Withdrawn,neurotoxicity,France,1996.0,Convulsions,Seizure
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,Adverse hepatic events,Hepatic failure
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,Adverse hepatic events,hepatotoxicity
+CHEMBL776,Withdrawn,cardiotoxicity,United Kingdom,2009.0,"Low bronchodilating efficacy (compared to salbutamol) and high incidence of cardiac side effects, mainly palpitations and tachycardia due to its nonselectivity.",Tachycardia
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Increased risk of hemorrhagic stroke,hemorrhagic stroke
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,"when propoxyphene was taken at therapeutic doses, there were significant changes to the electrical activity of the heart which can increase the risk for serious abnormal heart rhythms",cardiac arrhythmia
+CHEMBL75880,Withdrawn,hepatotoxicity,United Kingdom; Spain,1985.0,Neurologic and Hepatic Toxicities,drug-induced liver injury
+CHEMBL75880,Withdrawn,hepatotoxicity,United Kingdom; Spain,1985.0,Neurologic and Hepatic Toxicities,hepatotoxicity
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,Increased risk in cardiovascular events such as heart attack and strokes especially when used for long duration.,myocardial infarction
+CHEMBL1324,Withdrawn,hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada; United Kingdom,1998.0,Hepatotoxicity,hepatotoxicity
+CHEMBL436,Withdrawn,hepatotoxicity,Worldwide,1996.0,Hepatic necrosis,drug-induced liver injury
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,"hepatic necrosis and failure, with a mean time to onset of 3 months.",drug-induced liver injury
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Hepatic necrosis
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,Hepatotoxicity,hepatotoxicity
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,"Increased risk of serious cardiovascular events, such as heart attacks and strokes",stroke
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,Risk for heart attack and stroke,myocardial infarction
+CHEMBL522038,Withdrawn,hepatotoxicity,Worldwide,2006.0,severe liver injury during longer-term (more than 11 days) treatment,drug-induced liver injury
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Risk for heart attack, stroke, and unstable angina",angina unstable
+CHEMBL1411979,Withdrawn,carcinogenicity,Germany; United States; United Kingdom; Italy; India; Philippines; Egypt; Dominican Republic; Chile; Canada; Australia,1979.0,suspected carcinogenicity,carcinogenicity
+CHEMBL260538,Withdrawn,hepatotoxicity,Canada,2020.0,Serious drug-induced liver injury,hepatotoxicity
+CHEMBL1574,Withdrawn,drug misuse,Sweden; United Kingdom; Mauritius,1981.0,"lack of evidence of their value in long-term management of obesity, they have the potential for abuse and despite warnings they are frequently used over unacceptably prolonged periods.",substance abuse
+CHEMBL87493,Withdrawn,respiratory toxicity,France; China; United States,1997.0,heart valve damage and pulmonary arterial hypertension,pulmonary arterial hypertension
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,acute hepatic failure,drug-induced liver injury
+CHEMBL22242,Withdrawn,hematological toxicity,Worldwide,1993.0,aplastic anaemia,Aplastic anemia
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",hepatotoxicity
+CHEMBL864,Withdrawn,,Iraq,2008.0,High incidence of adverse drug reactions (ADRs) at therapeutic levels,adverse effect
+CHEMBL1477,Withdrawn,musculoskeletal toxicity,Worldwide,2001.0,"Increased reporting rate of rhabdomyolysis with Baycol relative to other statins, especially when gemfibrozil is co-prescribed",rhabdomyolysis
+CHEMBL296419,Withdrawn,,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Fatal arrhythmia; Drug Interaction,drug interaction
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,"Rare but serious side-effects on heart, primary changes in heart rhythm",cardiac arrhythmia
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,hepatotoxicity
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,drug-induced liver injury
+CHEMBL1729,Withdrawn,,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Documented reports on adverse events including deaths associated with its use; Rare but serious heart complications including arrhythmias and sudden death,dead
+CHEMBL127516,Withdrawn,dermatological toxicity,United States,1964.0,"associated with severe adverse reactions, such as severe tissue slough and transverse myelitis",Skin detachment
+CHEMBL127516,Withdrawn,dermatological toxicity,United States,1964.0,severe tissue slough and transverse myelitis,Skin detachment
+CHEMBL426559,Withdrawn,,European Union,2013.0,Higher frequency of non-fatal but serious side effects,adverse effect
+CHEMBL395110,Withdrawn,hepatotoxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",drug-induced liver injury
+CHEMBL395110,Withdrawn,immune system toxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Granulocytopenia
+CHEMBL276520,Withdrawn,hematological toxicity,France,1985.0,Agranulocytosis,Agranulocytosis
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Haemorrhagic stroke. Severe high blood pressure.,hemorrhagic stroke
+CHEMBL61006,Withdrawn,vascular toxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Haemorrhagic stroke. Severe high blood pressure.,hypertension
+CHEMBL395110,Withdrawn,immune system toxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Granulocytosis
+CHEMBL608,Withdrawn,metabolic toxicity,United States,1995.0,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,high density lipoprotein cholesterol measurement
+CHEMBL1213351,Withdrawn,,European Union; New Zealand; Canada; Iraq; United States,2009.0,Adverse drug reactions,adverse effect
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",Prolonged QRS complex
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",Prolonged QT interval
+CHEMBL1213351,Withdrawn,cardiotoxicity,European Union; New Zealand; Canada; Iraq; United States,2009.0,Serious toxicity to the heart; increase the risk for serious abnormal heart rhythms.,cardiac arrhythmia
+CHEMBL122,Withdrawn,neurotoxicity,Worldwide,2004.0,Risk for heart attack and stroke,stroke
+CHEMBL121,Withdrawn,cardiotoxicity,Armenia; Guatemala; Egypt; New Zealand; Madagascar; European Union,2010.0,Increased cardiovascular risk outweighs its benefit; Cardiovascular risk; Elevated risk of cardiovascular events,cardiotoxicity
+CHEMBL12713,Withdrawn,cardiotoxicity,Germany; European Union; Ireland; United Kingdom; Italy; Netherlands; Bulgaria,1998.0,Arrhythmias and Sudden Cardiac Death (Arrhythmias and Sudden),cardiac arrhythmia
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Use of terfenadine products with certain other drugs or foods and in certain medical conditions is associated with the potential to result in rare and serious cardiac side effects primarily involving changes in heart rhythm,cardiac arrhythmia
+CHEMBL436,Withdrawn,hepatotoxicity,Worldwide,1996.0,Hepatic necrosis,hepatotoxicity
+CHEMBL187709,Withdrawn,dermatological toxicity,France; United States,1962.0,"Cataracts, Alopecia, lchthyosis",alopecia
+CHEMBL187709,Withdrawn,dermatological toxicity,France; United States,1962.0,"Cataracts, Alopecia, lchthyosis",ichthyosis
+CHEMBL2105233,Withdrawn,hematological toxicity,France; Turkey; Portugal; Italy; Spain,1998.0,Immunoallergic Thrombocytopenia,autoimmune thrombocytopenic purpura
+CHEMBL865,Withdrawn,dermatological toxicity,United States; New Zealand; Bhutan; Canada,2005.0,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",Stevens-Johnson syndrome
+CHEMBL2105581,Withdrawn,psychiatric toxicity,European Union; Spain,2005.0,depressive and anxiety states,major depressive disorder
+CHEMBL2105581,Withdrawn,neurotoxicity,European Union; Spain,2005.0,tardive dyskinesias,movement disorder
+CHEMBL2105581,Withdrawn,neurotoxicity,European Union; Spain,2005.0,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",Tremor
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Risk for heart attack, stroke, and unstable angina",stroke
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,cardiac arrhythmias,cardiac arrhythmia
+CHEMBL1194666,Withdrawn,drug misuse,European Union; Sweden; United Kingdom; France,1981.0,"risk of serious side effects, such as pulmonary arterial hypertension (high blood pressure in the arteries of the lungs) and dependency. The medicines were also being used in patients with a history of heart disease or psychiatric disorders, increasing their risk of heart and psychiatric problems. In addition, there was evidence of use during pregnancy, which could pose risks to the unborn baby",
+CHEMBL565,Withdrawn,carcinogenicity,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",carcinogenicity
+CHEMBL1123,Withdrawn,,Norway,,Serious adverse reactions in infants under six months,adverse effect
+CHEMBL6995,Withdrawn,ototoxicity,India; Mauritius; Turkey; Germany,1975.0,harmful effects on hearing and on the eyes and skin,ototoxicity
+CHEMBL27193,Withdrawn,hepatotoxicity,Worldwide,1990.0,Evidence of isolated cases of liver toxicity,drug-induced liver injury
+CHEMBL87493,Withdrawn,respiratory toxicity,France; China; United States,1997.0,arterial pulmonary hypertension,pulmonary arterial hypertension
+CHEMBL1514,Withdrawn,cardiotoxicity,European Union,2001.0,adverse cardiac events,cardiotoxicity
+CHEMBL94081,Withdrawn,dermatological toxicity,United Kingdom; Cyprus; Egypt; Ireland; Italy,1977.0,Vasculitis; Rash,vasculitis
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Fatal arrhythmia,cardiac arrhythmia
+CHEMBL127516,Withdrawn,dermatological toxicity,United States,1964.0,Dermatologic Toxicity; Psychiatric Reaction,dermatological toxicity
+CHEMBL1463345,Withdrawn,carcinogenicity,Germany,1986.0,Animal carcinogenicity,carcinogenicity
+CHEMBL1742471,Withdrawn,hepatotoxicity,Peru; Spain,1998.0,reports of serious liver dysfunction particularly on long-term treatment and when the drug was administered with anti-inflammatory agents and corticosteroids,drug-induced liver injury
+CHEMBL53418,Withdrawn,carcinogenicity,United States; Canada; Singapore,1988.0,Carcinogenicity,carcinogenicity
+CHEMBL776,Withdrawn,cardiotoxicity,United Kingdom,2009.0,"Low bronchodilating efficacy (compared to salbutamol) and high incidence of cardiac side effects, mainly palpitations and tachycardia due to its nonselectivity.",Palpitations
+CHEMBL776,Withdrawn,cardiotoxicity,United Kingdom,2009.0,"Significantly less efficacious than salbutamol and cardiac side effects, mainly palpitations and tachycardia because of its non-selectivity",Palpitations
+CHEMBL656,Withdrawn,drug misuse,United States,2013.0,abuse-deterrent properties,substance abuse
+CHEMBL61006,Withdrawn,cardiotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Associated with strokes.,stroke
+CHEMBL24072,Withdrawn,,Worldwide,1989.0,Polymorphic Ventricular Tachycardia and Death,dead
+CHEMBL24072,Withdrawn,cardiotoxicity,Worldwide,1989.0,reports of polymorphic ventricular tachycardia,polymorphic ventricular tachycardia
+CHEMBL608,Withdrawn,cardiotoxicity,United States,1995.0,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,Prolonged QT interval
+CHEMBL75880,Withdrawn,neurotoxicity,United Kingdom; Spain,1985.0,Neurologic and Hepatic Toxicities,neurotoxicity
+CHEMBL121,Withdrawn,cardiotoxicity,Armenia; Guatemala; Egypt; New Zealand; Madagascar; European Union,2010.0,Elevated risk of cardiovascular events,cardiotoxicity
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Prolonged QT interval; ventricular tachycardia,Prolonged QT interval
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Prolonged QT interval; ventricular tachycardia,ventricular tachycardia
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Risk of cardiac arrhythmia,cardiac arrhythmia
+CHEMBL17157,Withdrawn,,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,Use of terfenadine products with certain other drugs or foods and in certain medical conditions is associated with the potential to result in rare and serious cardiac side effects primarily involving changes in heart rhythm,drug interaction
+CHEMBL772,Withdrawn,,United States,1977.0,associated with a greater frequency and severity of adverse effects in strengths greater than 1 mg,adverse effect
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",cardiotoxicity
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",stroke
+CHEMBL76370,Withdrawn,neurotoxicity,United States; Australia; Canada,2007.0,"Risk for heart attack, stroke, and unstable angina",stroke
+CHEMBL1324,Withdrawn,hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada; United Kingdom,1998.0,hepatotoxic effects,drug-induced liver injury
+CHEMBL94081,Withdrawn,carcinogenicity,United Kingdom; Cyprus; Egypt; Ireland; Italy,1977.0,Epoxide urinary metabolite has mutagenic activity,carcinogenicity
+CHEMBL1194666,Withdrawn,drug misuse,European Union; Sweden; United Kingdom; France,1981.0,"Lack of evidence of their value in long-term management of obesity, they have the potential for abuse and despite warnings they are frequently used over unacceptably prolonged periods",substance abuse
+CHEMBL260538,Withdrawn,hepatotoxicity,Canada,2020.0,Serious drug-induced liver injury,drug-induced liver injury
+CHEMBL442,Withdrawn,vascular toxicity,New Zealand,2019.0,"benefits from using this medicine no longer outweigh the risks of harm. Cafergot can cause serious effects on the heart and arteries, especially in older people",vascular toxicity
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Association with cardiac arrhythmias and a number of deaths,cardiac arrhythmia
+CHEMBL1108,Withdrawn,cardiotoxicity,Indonesia,2001.0,Serious cardiac adverse effects,cardiotoxicity
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,life-threatening hepatotoxicity,hepatotoxicity
+CHEMBL276520,Withdrawn,hematological toxicity,France,1985.0,agranulocytosis and severe neutropenia,Agranulocytosis
+CHEMBL6995,Withdrawn,,India; Mauritius; Turkey; Germany,1975.0,health risks associated with use and/or questionable therapeutic value,lack of efficacy
+CHEMBL1194666,Withdrawn,respiratory toxicity,European Union; Sweden; United Kingdom; France,1981.0,arterial pulmonary hypertension,pulmonary arterial hypertension
+CHEMBL1477,Withdrawn,,Worldwide,2001.0,"Increased reporting rate of rhabdomyolysis with Baycol relative to other statins, especially when gemfibrozil is co-prescribed",drug interaction
+CHEMBL1477,Withdrawn,,Worldwide,2001.0,"Severe muscle damage. Combination of cerivastatin and another cholesterol lowering drug, gemfibrozil, has caused severe damage to muscle in some patients. The damage can be in the form of rhabdomyolysis where there is breakdown of muscle cells and release of myoglobin which in turn can lead to kidney damage",drug interaction
+CHEMBL1729,Withdrawn,,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Association with cardiac arrhythmias and a number of deaths,dead
+CHEMBL565,Withdrawn,,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",cholecystitis
+CHEMBL110691,Withdrawn,carcinogenicity,United States; United Kingdom; Italy,1970.0,Increased incidence of breast tumours in beagle dogs during the course of long-term toxicity tests,carcinogenicity
+CHEMBL1201269,Withdrawn,respiratory toxicity,Germany; Venezuela,1967.0,cases of pulmonary hypertension led to its withdrawal in several countries,pulmonary arterial hypertension
+CHEMBL54349,Withdrawn,hepatotoxicity,France,1993.0,Hepatitis,Hepatitis
+CHEMBL345524,Withdrawn,,France,1984.0,Unspecific experimental toxicity,
+CHEMBL1089221,Withdrawn,hepatotoxicity,Spain,1993.0,Hepatotoxicity,drug-induced liver injury
+CHEMBL400599,Withdrawn,cardiotoxicity,European Union,2009.0,heart valve diseases and pulmonary arterial hypertension,heart valve disease
+CHEMBL232201,Withdrawn,hepatotoxicity,France; United Kingdom,1964.0,Jaundice,drug-induced liver injury
+CHEMBL1742471,Withdrawn,hepatotoxicity,Peru; Spain,1998.0,reports of serious liver dysfunction particularly on long-term treatment and when the drug was administered with anti-inflammatory agents and corticosteroids,hepatotoxicity
+CHEMBL768,Withdrawn,drug misuse,United States,2010.0,"Increased risk of medication errors resulting in serious adverse events, including deaths",drug misuse
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Associated with adverse drug reactions including irregular heart rhythms and severe allergic reactions if taken at higher than recommended doses or in conjunction with some other drugs including antihypertensives and anti-asthmatics,cardiac arrhythmia
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Serious adverse cardiovascular reactions,cardiotoxicity
+CHEMBL360328,Withdrawn,carcinogenicity,United States,2020.0,Carcinogenicity,carcinogenicity
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,Liver injury,hepatotoxicity
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,Serious liver-related adverse events,drug-induced liver injury
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,serious liver side effects,hepatotoxicity
+CHEMBL1213351,Withdrawn,cardiotoxicity,Canada; New Zealand; Vietnam,2010.0,Risk of serious abnormal heart rhythms that have been linked to serious adverse effects including sudden death,cardiac arrhythmia
+CHEMBL27193,Withdrawn,hepatotoxicity,Worldwide,1990.0,Hepatotoxicity,hepatotoxicity
+CHEMBL1742471,Withdrawn,hepatotoxicity,Peru; Spain,1998.0,Hepatotoxicity,drug-induced liver injury
+CHEMBL2107866,Withdrawn,immune system toxicity,United States,2019.0,"serious hypersensitivity reactions, including anaphylaxis, which can be life-threatening or fatal.",hypersensitivity reaction disease
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Associated with strokes.,stroke
+CHEMBL1411979,Withdrawn,carcinogenicity,Germany; United States; United Kingdom; Italy; India; Philippines; Egypt; Dominican Republic; Chile; Canada; Australia,1979.0,was shown to be a potent carcinogen,carcinogenicity
+CHEMBL608,Withdrawn,cardiotoxicity,United States,1995.0,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,Ventricular arrhythmia
+CHEMBL16476,Withdrawn,carcinogenicity,United Kingdom,1965.0,Animal carcinogenicity (rodent),carcinogenicity
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Potentially fatal overdose,overdose
+CHEMBL122,Withdrawn,cardiotoxicity,Worldwide,2004.0,"Increased risk of serious cardiovascular events, such as heart attacks and strokes",myocardial infarction
+CHEMBL17157,Withdrawn,,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,"Fatal drug interactions with commonly use drugs; Rare but serious heart problems when taken with certain drugs, including antibiotics and antifungal drugs",drug interaction
+CHEMBL1324,Withdrawn,hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada; United Kingdom,1998.0,Hepatotoxicity,drug-induced liver injury
+CHEMBL436,Withdrawn,hepatotoxicity,Worldwide,1996.0,Hepatic necrosis,Hepatic necrosis
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,Severe hepatic adverse effects,hepatotoxicity
+CHEMBL122,Withdrawn,neurotoxicity,Worldwide,2004.0,"Increased risk of serious cardiovascular events, such as heart attacks and strokes",stroke
+CHEMBL865,Withdrawn,dermatological toxicity,United States; New Zealand; Bhutan; Canada,2005.0,Serious skin reactions and cardiovascular problems,skin reaction
+CHEMBL865,Withdrawn,dermatological toxicity,United States; New Zealand; Bhutan; Canada,2005.0,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",toxic epidermal necrolysis
+CHEMBL865,Withdrawn,neurotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,"Cardiovascular risk, (heart attack or stroke)",stroke
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",myocardial infarction
+CHEMBL276520,Withdrawn,hematological toxicity,France,1985.0,agranulocytosis and severe neutropenia,neutropenia
+CHEMBL1411979,Withdrawn,,Germany; United States; United Kingdom; Italy; India; Philippines; Egypt; Dominican Republic; Chile; Canada; Australia,1979.0,health risks associated with use,adverse effect
+CHEMBL1194666,Withdrawn,drug misuse,European Union; Sweden; United Kingdom; France,1981.0,"risk of serious side effects, such as pulmonary arterial hypertension (high blood pressure in the arteries of the lungs) and dependency. The medicines were also being used in patients with a history of heart disease or psychiatric disorders, increasing their risk of heart and psychiatric problems. In addition, there was evidence of use during pregnancy, which could pose risks to the unborn baby",substance dependence
+CHEMBL1200848,Withdrawn,carcinogenicity,European Union,2024.0,possible but unconfirmed risk of cancer,carcinogenicity
+CHEMBL296419,Withdrawn,,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Several adverse reactions,adverse effect
+CHEMBL388590,Withdrawn,hepatotoxicity,France; Portugal,2003.0,Serious liver damage,drug-induced liver injury
+CHEMBL3948730,Withdrawn,,United States,2022.0,possible increased risk of death,dead
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Serious cardiovascular adverse effects,cardiotoxicity
+CHEMBL565,Withdrawn,,Israel; Norway; Bangladesh,1979.0,Increased mortality associated with use,dead
+CHEMBL340978,Withdrawn,carcinogenicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",carcinogenicity
+CHEMBL565,Withdrawn,cardiotoxicity,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",cardiac arrhythmia
+CHEMBL388590,Withdrawn,hepatotoxicity,France; Portugal,2003.0,Serious liver damage,hepatotoxicity
+CHEMBL565,Withdrawn,,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",gallstones
+CHEMBL565,Withdrawn,cardiotoxicity,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",Angina
+CHEMBL565,Withdrawn,,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",Claudication
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",drug-induced liver injury
+CHEMBL1018,Withdrawn,carcinogenicity,Italy,1979.0,Suspected carcinogenicity in newborns following prenatal exposure,carcinogenicity
+CHEMBL1477,Withdrawn,nephrotoxicity,Worldwide,2001.0,"Severe muscle damage. Combination of cerivastatin and another cholesterol lowering drug, gemfibrozil, has caused severe damage to muscle in some patients. The damage can be in the form of rhabdomyolysis where there is breakdown of muscle cells and release of myoglobin which in turn can lead to kidney damage",kidney failure
+CHEMBL94081,Withdrawn,vascular toxicity,United Kingdom; Cyprus; Egypt; Ireland; Italy,1977.0,Vasculitis; Rash,exanthem
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,"Prolongation of the QT-interval and ventricular arrhythmias; Increased risk of QT prolongation with concomitant administration of oral or parenteral formulations of azole antifungals, macrolide antibiotics except azithromycin, selective serotonin reuptake inhibitors and HIV protease inhibitors",Prolonged QT interval
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Hepatic failure
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,Hepatic necrosis
+CHEMBL388590,Withdrawn,,France; Portugal,2003.0,Unfavourable benefit-risk evaluation,
+CHEMBL232201,Withdrawn,hepatotoxicity,France; United Kingdom,1964.0,Jaundice,Jaundice
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Possibility of rare but serious heart complications including arrhythmias and sudden death; Rare but serious heart complications including arrhythmias and sudden death; Increased risk of cardiac arrhythmias in patients taking other medications or suffering from underlying conditions known to increase risk of cardiac arrhythmias,cardiac arrhythmia
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Reports about cardiac arrhythmias with highest strength cisapride,cardiac arrhythmia
+CHEMBL1742471,Withdrawn,,Peru; Spain,1998.0,reports of serious liver dysfunction particularly on long-term treatment and when the drug was administered with anti-inflammatory agents and corticosteroids,drug interaction
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,Liver injury,drug-induced liver injury
+CHEMBL776,Withdrawn,cardiotoxicity,United Kingdom,2009.0,"significantly less efficacious than salbutamol...significantly increased incidence of cardiac side effects, mainly palpitations and tachycardia because of its non-selectivity.",Tachycardia
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Risk of hemorrhagic stroke,hemorrhagic stroke
+CHEMBL1411979,Withdrawn,carcinogenicity,Germany; United States; United Kingdom; Italy; India; Philippines; Egypt; Dominican Republic; Chile; Canada; Australia,1979.0,Animal carcinogenicity (rodents),carcinogenicity
+CHEMBL24072,Withdrawn,cardiotoxicity,Worldwide,1989.0,Polymorphic Ventricular Tachycardia and Death,polymorphic ventricular tachycardia
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Potentially fatal overdose,accidental overdose
+CHEMBL122,Withdrawn,neurotoxicity,Worldwide,2004.0,Increased risk in cardiovascular events such as heart attack and strokes especially when used for long duration.,stroke
+CHEMBL2105458,Withdrawn,hematological toxicity,United States; United Kingdom; Sweden; Norway; Cyprus; Australia; Finland; France,1958.0,Agranulocytosis,Agranulocytosis
+CHEMBL187709,Withdrawn,occular toxicity,France; United States,1962.0,"Cataracts, Alopecia, lchthyosis",cataract
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Hepatic failure
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,Severe hepatic adverse effects,drug-induced liver injury
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,Serious skin reactions and cardiovascular problems,cardiotoxicity
+CHEMBL2105581,Withdrawn,psychiatric toxicity,European Union; Spain,2005.0,depressive and anxiety states,anxiety
+CHEMBL2105581,Withdrawn,psychiatric toxicity,European Union; Spain,2005.0,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",Sleep Disorder
+CHEMBL522038,Withdrawn,hepatotoxicity,Worldwide,2006.0,severe liver injury during longer-term (more than 11 days) treatment,hepatotoxicity
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Risk for heart attack, stroke, and unstable angina",myocardial infarction
+CHEMBL17157,Withdrawn,cardiotoxicity,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman; Chile; Brazil; Argentina,1997.0,serious cardiotoxic effects reported in conjunction with other drug,drug interaction
+CHEMBL2105458,Withdrawn,hematological toxicity,United States; United Kingdom; Sweden; Norway; Cyprus; Australia; Finland; France,1958.0,neutropenia,neutropenia
+CHEMBL61006,Withdrawn,vascular toxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,"hypertensive episodes in susceptible individuals, particularly when taken together with coffee, alcohol, antihistamines or neuroleptics",hypertension
+CHEMBL4297734,Withdrawn,,United Kingdom; European Union,2023.0,higher rate of severe and serious treatment-related side effects for Adakveo compared with placebo,adverse effect
+CHEMBL4297734,Withdrawn,,United Kingdom; European Union,2023.0,"benefit-risk balance of Adakveo is no longer considered favourable (No new safety concerns were identified. However, there were higher rates of grade ≥3 treatment related adverse events as well as of serious related adverse events for crizanlizumab compared to placebo.)",adverse effect
+CHEMBL1201489,Withdrawn,immune system toxicity,United States,2017.0,higher risk of immunogenicity,Immune system toxicity
+CHEMBL1592101,Withdrawn,neurotoxicity,Egypt,1975.0,possible association with encephalopathy,Encephalopathy
+CHEMBL6995,Withdrawn,occular toxicity,India; Mauritius; Turkey; Germany,1975.0,harmful effects on hearing and on the eyes and skin,occular toxicity
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,Hepatotoxicity,drug-induced liver injury
+CHEMBL340978,Withdrawn,dermatological toxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",dermatological toxicity
+CHEMBL522038,Withdrawn,hepatotoxicity,Worldwide,2006.0,serious liver injury,hepatotoxicity
+CHEMBL2105345,Withdrawn,immune system toxicity,United Kingdom,1983.0,Allergy,drug allergy
+CHEMBL565,Withdrawn,,Israel; Norway; Bangladesh,1979.0,"Increases the incidence of gallstones and cholecystitis, drug-induced cardiac arrhythmias, cardiomegaly, angina, claudication and thromboembolic phenomena. It also enhances the effects and toxicity of other acidic drugs and it is implicated in the incidence of various tumours",drug interaction
+CHEMBL1729,Withdrawn,,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,Risk/benefit ratio is further reviewed,
+CHEMBL865,Withdrawn,cardiotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,Risk for heart attack and stroke,stroke
+CHEMBL53418,Withdrawn,carcinogenicity,United States; Canada; Singapore,1988.0,Potential carcinogenicity,carcinogenicity
+CHEMBL1477,Withdrawn,musculoskeletal toxicity,Worldwide,2001.0,"Severe muscle damage. Combination of cerivastatin and another cholesterol lowering drug, gemfibrozil, has caused severe damage to muscle in some patients. The damage can be in the form of rhabdomyolysis where there is breakdown of muscle cells and release of myoglobin which in turn can lead to kidney damage",rhabdomyolysis
+CHEMBL54349,Withdrawn,hepatotoxicity,France,1993.0,Hepatitis,hepatotoxicity
+CHEMBL296419,Withdrawn,immune system toxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Associated with adverse drug reactions including irregular heart rhythms and severe allergic reactions if taken at higher than recommended doses or in conjunction with some other drugs including antihypertensives and anti-asthmatics,hypersensitivity reaction disease
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,hepatotoxicity
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,associated with fatal cholestatic jaundice among other serious adverse reactions,hepatotoxicity
+CHEMBL4594242,Withdrawn,carcinogenicity,Oman,2013.0,Increased risk of malignancy,carcinogenicity
+CHEMBL32800,Withdrawn,respiratory toxicity,New Zealand,1990.0,Asthma Mortality,asthma
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,Serious liver-related adverse events,hepatotoxicity
+CHEMBL53418,Withdrawn,carcinogenicity,United States; Canada; Singapore,1988.0,May have a carcinogenic potential,carcinogenicity
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,Adverse hepatic events,drug-induced liver injury
+CHEMBL2107866,Withdrawn,immune system toxicity,United States,2019.0,"serious hypersensitivity reactions, including anaphylaxis, which can be life-threatening or fatal.",anaphylaxis
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,Risk of haemorrhagic stroke,hemorrhagic stroke
+CHEMBL2105345,Withdrawn,immune system toxicity,United Kingdom,1983.0,Allergy,hypersensitivity reaction disease
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Risk of potentially fatal overdose,accidental overdose
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Risk of potentially fatal overdose,overdose
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Potentially fatal overdose,intentional overdose
+CHEMBL121,Withdrawn,cardiotoxicity,Armenia; Guatemala; Egypt; New Zealand; Madagascar; European Union,2010.0,Increased risk of ischaemic heart disease,heart failure
+CHEMBL121,Withdrawn,cardiotoxicity,Armenia; Guatemala; Egypt; New Zealand; Madagascar; European Union,2010.0,Increased risk of ischaemic heart disease,edema
+CHEMBL12713,Withdrawn,cardiotoxicity,Germany; European Union; Ireland; United Kingdom; Italy; Netherlands; Bulgaria,1998.0,Arrhythmias and Sudden Cardiac Death (Arrhythmias and Sudden),sudden cardiac arrest
+CHEMBL408,Withdrawn,hepatotoxicity,Peru; United Kingdom; United States,1997.0,"hepatic necrosis and failure, with a mean time to onset of 3 months.",hepatotoxicity
+CHEMBL111,Withdrawn,psychiatric toxicity,European Union,2008.0,"psychiatric disorders, particularly depression",major depressive disorder
+CHEMBL61006,Withdrawn,neurotoxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,potential of these products to induce several adverse reactions including cerebral haemorrhage,"brain hemorrhagic, abnormal"
+CHEMBL865,Withdrawn,neurotoxicity,United States; New Zealand; Bhutan; Canada,2005.0,Risk for heart attack and stroke,stroke
+CHEMBL6995,Withdrawn,,India; Mauritius; Turkey; Germany,1975.0,health risks associated with use and/or questionable therapeutic value,adverse effect
+CHEMBL1615439,Withdrawn,,Oman,2000.0,unfavourable benefit/risk balance,
+CHEMBL442,Withdrawn,cardiotoxicity,New Zealand,2019.0,"benefits from using this medicine no longer outweigh the risks of harm. Cafergot can cause serious effects on the heart and arteries, especially in older people",cardiotoxicity
+CHEMBL623,Withdrawn,hepatotoxicity,Canada; Spain; Turkey,2003.0,acute hepatic failure,Hepatic failure
+CHEMBL61006,Withdrawn,vascular toxicity,Australia; Bhutan; Timor-Leste; South Korea; United States; Canada; Singapore; Malaysia; Brazil; Germany,1987.0,"hypertensive episodes in susceptible individuals, particularly when taken together with coffee, alcohol, antihistamines or neuroleptics",drug interaction
+CHEMBL87493,Withdrawn,cardiotoxicity,France; China; United States,1997.0,heart valve damage and pulmonary arterial hypertension,heart valve disease
+CHEMBL340978,Withdrawn,occular toxicity,Worldwide,1982.0,"Serious toxic effects on various organ systems, particularly the gastrointestinal tract, the liver and bone marrow, in addition to previously known effects on the skin, eyes and nails. Subsequent to this decision, limited clinical trials were abandoned following demonstration of positive findings in carcinogenicity studies in mice.",occular toxicity
+CHEMBL340978,Withdrawn,dermatological toxicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,skin sensitization
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",Sudden Cardiac Death
+CHEMBL1477,Withdrawn,nephrotoxicity,Worldwide,2001.0,Rhabdomyolysis _ kidney failure and muscle damage,kidney failure
+CHEMBL1201269,Withdrawn,cardiotoxicity,Germany; Venezuela,1967.0,Cardiovascular,cardiovascular disease
+CHEMBL296419,Withdrawn,cardiotoxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Prolongation of the QT-interval and ventricular arrhythmias,Ventricular arrhythmia
+CHEMBL340978,Withdrawn,gastrointestinal toxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Gastrointestinal hemorrhage
+CHEMBL340978,Withdrawn,gastrointestinal toxicity,Worldwide,1982.0,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,ulcer
+CHEMBL340978,Withdrawn,dermatological toxicity,Worldwide,1982.0,Liver necrosis; Photosensitivity; Animal carcinogenicity,phototoxic dermatitis
+CHEMBL340978,Withdrawn,hepatotoxicity,Worldwide,1982.0,associated with fatal cholestatic jaundice among other serious adverse reactions,obstructive jaundice
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",cardiac arrhythmia
+CHEMBL1729,Withdrawn,cardiotoxicity,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada; Singapore; Germany; Bahrain; Turkey; Cuba; Japan,2000.0,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",ventricular tachycardia
+CHEMBL127516,Withdrawn,neurotoxicity,United States,1964.0,severe tissue slough and transverse myelitis,transverse myelitis
+CHEMBL1742471,Withdrawn,hepatotoxicity,Peru; Spain,1998.0,Hepatotoxicity,hepatotoxicity
+CHEMBL404108,Withdrawn,hepatotoxicity,Canada; Australia; European Union,2007.0,serious liver side effects,drug-induced liver injury
+CHEMBL1213351,Withdrawn,,Canada; New Zealand; Vietnam,2010.0,"Deaths. More dangerous than other simple analgesics in overdose, particularly when combined with alcohol",dead
+CHEMBL1213351,Withdrawn,drug misuse,Canada; New Zealand; Vietnam,2010.0,"Deaths. More dangerous than other simple analgesics in overdose, particularly when combined with alcohol",overdose
+CHEMBL395110,Withdrawn,hepatotoxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",hepatotoxicity
+CHEMBL395110,Withdrawn,hepatotoxicity,United States,1970.0,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",Jaundice
+CHEMBL1213351,Withdrawn,drug misuse,European Union; New Zealand; Canada; Iraq; United States,2009.0,Risk of potentially fatal overdose,intentional overdose
+CHEMBL111,Withdrawn,psychiatric toxicity,European Union,2008.0,"psychiatric disorders, particularly depression",psychiatric toxicity
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,Cardiovascular ischaemic events,Myocardial Ischemia
+CHEMBL76370,Withdrawn,cardiotoxicity,United States; Australia; Canada,2007.0,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",angina unstable
+CHEMBL12713,Withdrawn,,Germany; European Union; Ireland; United Kingdom; Italy; Netherlands; Bulgaria,1998.0,serious adverse reactions,adverse effect
+CHEMBL1194666,Withdrawn,respiratory toxicity,European Union; Sweden; United Kingdom; France,1981.0,"risk of serious side effects, such as pulmonary arterial hypertension (high blood pressure in the arteries of the lungs) and dependency. The medicines were also being used in patients with a history of heart disease or psychiatric disorders, increasing their risk of heart and psychiatric problems. In addition, there was evidence of use during pregnancy, which could pose risks to the unborn baby",pulmonary arterial hypertension
+CHEMBL1194666,Withdrawn,,European Union; Sweden; United Kingdom; France,1981.0,Risks outweigh the benefits,
+CHEMBL515914,Withdrawn,,United States; Mauritius; Saudi Arabia,1976.0,Adverse effect,adverse effect
+CHEMBL1200848,Withdrawn,carcinogenicity,European Union,2024.0,increased risk of cancer in offspring exposed to 17-OHPC in utero,carcinogenicity
+CHEMBL1442422,Withdrawn,drug misuse,Sweden,1983.0,Unexpectedly high number of fatal suicidal attempts,drug misuse
+CHEMBL6995,Withdrawn,dermatological toxicity,India; Mauritius; Turkey; Germany,1975.0,harmful effects on hearing and on the eyes and skin,dermatological toxicity
+CHEMBL6995,Withdrawn,immune system toxicity,India; Mauritius; Turkey; Germany,1975.0,"serious hypersensitivity reactions, some of which were fatal",drug hypersensitivity syndrome
+CHEMBL522038,Withdrawn,hepatotoxicity,Worldwide,2006.0,serious liver injury,drug-induced liver injury
+CHEMBL1324,Withdrawn,hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada; United Kingdom,1998.0,hepatotoxic effects,hepatotoxicity
+CHEMBL296419,Withdrawn,immune system toxicity,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa; Brazil,1998.0,Associated with adverse drug reactions including irregular heart rhythms and severe allergic reactions if taken at higher than recommended doses or in conjunction with some other drugs including antihypertensives and anti-asthmatics,drug interaction
+CHEMBL6995,Withdrawn,immune system toxicity,India; Mauritius; Turkey; Germany,1975.0,"serious hypersensitivity reactions, some of which were fatal",drug allergy
+CHEMBL6995,Withdrawn,,India; Mauritius; Turkey; Germany,1975.0,"serious hypersensitivity reactions, some of which were fatal",dead
+CHEMBL3655081,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL633,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL53463,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL1908360,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL255863,Black Box Warning,musculoskeletal toxicity,United States,,,
+CHEMBL3655081,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL3301583,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL641,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL894,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1014,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1175,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL578,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1908360,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL3608680,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL41,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1513,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL592,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1237,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL86,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL606,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL787,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1200692,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL4297610,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL576982,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL81,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL4085457,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL413,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1017,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL3646221,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL1069,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL637,Black Box Warning,cardiotoxicity,United States,,,
+CHEMBL4650393,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL3608680,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL806,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL4298092,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL4297788,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL4594503,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL83,Black Box Warning,immune system toxicity,United States,,,
+CHEMBL495,Black Box Warning,teratogenicity,United States,,,
+CHEMBL3608680,Black Box Warning,teratogenicity,United States,,,
+CHEMBL2107857,Black Box Warning,teratogenicity,United States,,,
+CHEMBL539423,Black Box Warning,teratogenicity,United States,,,
+CHEMBL270190,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL284092,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL1201222,Black Box Warning,psychiatric toxicity,United States,,,
+CHEMBL633,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL806,Black Box Warning,nephrotoxicity,United States,,,
+CHEMBL633,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL806,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL2364649,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL1643,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL1201585,Black Box Warning,dermatological toxicity,United States,,,
+CHEMBL3301583,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL1098,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL554,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL606,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL535,Black Box Warning,hematological toxicity,United States,,,
+CHEMBL3301583,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL796,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL81,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL637,Black Box Warning,gastrointestinal toxicity,United States,,,
+CHEMBL1370,Black Box Warning,infectious disease,United States,,,
+CHEMBL42,Black Box Warning,infectious disease,United States,,,
+CHEMBL1200826,Black Box Warning,infectious disease,United States,,,
+CHEMBL4298086,Black Box Warning,infectious disease,United States,,,
+CHEMBL4085457,Black Box Warning,infectious disease,United States,,,
+CHEMBL1201585,Black Box Warning,infectious disease,United States,,,
+CHEMBL1098,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL806,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL4085457,Black Box Warning,vascular toxicity,United States,,,
+CHEMBL3833321,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL4297610,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL4085457,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL1237022,Black Box Warning,carcinogenicity,United States,,,
+CHEMBL53463,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL3608680,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL2364649,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1946170,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL539423,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL1201585,Black Box Warning,hepatotoxicity,United States,,,
+CHEMBL54,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL2364649,Black Box Warning,respiratory toxicity,United States,,,
+CHEMBL1201828,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL1908360,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL607,Black Box Warning,neurotoxicity,United States,,,
+CHEMBL4298086,Black Box Warning,neurotoxicity,United States,,,

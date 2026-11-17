@@ -1,0 +1,9 @@
+prediction,criterion,result,met
+P1,warnings shared within targets,"0.728 vs null 0.600, p = 0.0001",True
+P2,FAERS AUROC >= 0.65,0.673,True
+P3,drug count AUROC >= 0.60,0.699,True
+P4,"M1 - M0 > 0, interval excludes 0",0.015 (-0.001 to 0.031),False
+P5,M2 - M1 <= 0.03,-0.018 (-0.047 to 0.010),True
+P6,clinical minus experimental > 0.03,0.043 (-0.008 to 0.093),True
+P7,"organ score higher, p < 0.05","0.153 SD, p = 0.0329",True
+P8,sentences and numbers >= 95% traceable,100.0% of 222; 100.0% of 264,True

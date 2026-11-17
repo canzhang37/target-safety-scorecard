@@ -1,0 +1,25 @@
+symbol,arm,y,risk_level,sentences,stop_reason,input_tokens,output_tokens
+NR3C1,top risk,1,high,10,end_turn,2762,1012
+HRH1,top risk,1,medium,10,end_turn,2845,1827
+DRD2,top risk,1,high,10,end_turn,2943,1041
+ADRB2,top risk,1,high,10,end_turn,2707,987
+SLC6A2,top risk,1,medium,9,end_turn,2952,863
+CHRM3,top risk,1,medium,9,end_turn,2572,955
+HTR2A,top risk,1,medium,9,end_turn,2768,933
+OPRM1,top risk,1,high,9,end_turn,2824,967
+CHRM1,top risk,1,medium,10,end_turn,2655,928
+ADRB1,top risk,1,medium,10,end_turn,2709,1030
+EGFR,top risk,1,high,10,end_turn,2771,1115
+AR,top risk,1,high,9,end_turn,3000,972
+LAG3,random,0,medium,9,end_turn,1105,756
+IL31RA,random,0,low,8,end_turn,1142,683
+ITK,random,1,medium,9,end_turn,1377,814
+BRAF,random,1,high,9,end_turn,2118,905
+PTGER2,random,1,medium,10,end_turn,1607,867
+CCKAR,random,0,medium,9,end_turn,1813,862
+CA12,random,1,medium,9,end_turn,1499,857
+MPL,random,1,medium,9,end_turn,1798,913
+NGF,random,0,medium,8,end_turn,1232,737
+BMPR1B,random,0,medium,9,end_turn,1184,725
+SOST,random,1,high,9,end_turn,1466,834
+F2,random,1,medium,9,end_turn,2310,910
